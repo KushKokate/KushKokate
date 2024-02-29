@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KushKokate
 - 👀 I’m interested in learning about coding
-- 🌱 I’m currently learning java and Data Structure and algorithm
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PYTHON 
+- 💞️ I’m looking to collaborate on project with like minded individuals.
 - 📫 How to reach me kokatekush@gmail.com
 
 <!---
